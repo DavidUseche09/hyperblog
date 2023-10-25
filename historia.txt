@@ -2,4 +2,4 @@ Hola este es un archivo de practicas
 
 En la clase de Platzi usando Git and Github 
 
-Primera edicion del archivo txt 
+Primera edicion del archivo txt con otro cambio pal commit pueh
