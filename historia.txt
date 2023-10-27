@@ -2,6 +2,4 @@ Hola este es un archivo de practicas
 
 En la clase de Platzi usando Git and Github 
 
-Primera edicion del archivo txt con otro cambio pal commit pueh jejeje 
-
-Vamos a mencionar nuestra maestria
+Tomorrow nos enfocaremos en su vida laboral (Ejemplo platzi)
