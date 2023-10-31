@@ -2,4 +2,6 @@ Hola este es un archivo de practicas
 
 En la clase de Platzi usando Git and Github 
 
+Anita platzi tiene 41 years old y nacio de internet
+
 Tomorrow nos enfocaremos en su vida laboral (Ejemplo platzi)
