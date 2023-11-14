@@ -8,3 +8,5 @@ Muy bueno pa XD
 # En este curso se vio de todo
 * Aprendi a usar git y github con muchisimas implementaciones y funciones
 * Creado por mi, un programador con muchas ganas de aprender cada dia :P
+* Incluye distintos ejemplos con windows y linux 
+* Disponible para todas las edades yeii
